@@ -16,4 +16,7 @@ vaadin-text-field.bordered::part(input-field) {
   background-color: var(--lumo-base-color);
 }
 
-
+vaadin-grid::part(mycustompart) {
+  font-weight: bold;
+  color: red;
+}

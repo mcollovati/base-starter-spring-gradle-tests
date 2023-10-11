@@ -37,3 +37,9 @@ dependencyManagement {
 		mavenBom "com.vaadin:vaadin-bom:$vaadinVersion"
 	}
 }
+
+/*
+vaadin {
+	forceProductionBuild = true
+}
+ */
